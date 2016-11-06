@@ -1,0 +1,20 @@
+p {
+  font-family: verdana; font-size: 100%;
+  color: white; text-shadow: 2px 2px #000000;
+}
+
+h1 {
+    font-size: 300%; color: #008080; text-shadow: 2px 2px #000000;
+}
+
+.backgroundpage1 {
+background-image: url(https://i.ytimg.com/vi/v1SabYdIlZI/maxresdefault.jpg);
+}
+
+.backgroundpage2 {
+  background-image: url(https://pixabay.com/static/uploads/photo/2015/11/07/09/14/sunrise-1030591_960_720.jpg);
+}
+
+.backgroundpage3 {
+  background-image: url(http://cdn.wallpapersafari.com/66/81/JRnjNF.jpg);
+}
